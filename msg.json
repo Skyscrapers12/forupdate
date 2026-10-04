@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-04T00:00:00Z",
+    "updated_at": "2026-10-04T16:00:00Z",
     "urls": {
         "releaseNotesUrls": [
             "https://gitlab.com/open45140/forupdate/raw/main/msg.json",
@@ -13,7 +13,7 @@
         ]
     },
     "latest": {
-        "version": "0.0.4",
-        "notes": "1. 光遇版本更新至0.16.5\n2. 修复了部分分享问题"
+        "version": "0.0.2",
+        "notes": "1. 修复了部分分享问题"
     }
 }
