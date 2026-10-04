@@ -1,0 +1,19 @@
+{
+    "updated_at": "2026-10-04T00:00:00Z",
+    "urls": {
+        "releaseNotesUrls": [
+            "https://gitlab.com/open45140/forupdate/raw/main/msg.json",
+            "https://github.com/Skyscrapers12/forupdate/raw/main/msg.json",
+            "http://rrhome.ashitblake.pp.ua/forupdate/msg.json"
+        ],
+        "downloadUrls": [
+            "https://gitlab.com/open45140/forupdate/raw/main/%E5%85%89%E9%81%87%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7.apk",
+            "https://github.com/Skyscrapers12/forupdate/raw/main/%E5%85%89%E9%81%87%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7.apk",
+            "http://rrhome.ashitblake.pp.ua/forupdate/%E5%85%89%E9%81%87%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7.apk"
+        ]
+    },
+    "latest": {
+        "version": "0.0.2",
+        "latestNotes": "1. 光遇版本更新至0.16.5\n2. 修复了部分分享问题"
+    }
+}
