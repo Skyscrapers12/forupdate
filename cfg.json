@@ -1,0 +1,31 @@
+{
+  "schema": 2,
+  "sequence": 1008,
+  "urls": {
+    "configUrls": [
+      "https://gitlab.com/open45140/forupdate/raw/main/cfg.json",
+      "https://cnb.cool/skyscraper-2026/forupdate/-/git/raw/main/cfg.json",
+      "https://rrhome.ashitblake.pp.ua/forupdate/cfg.json",
+      "https://raw.githubusercontent.com/Skyscrapers12/forupdate/main/cfg.json"
+    ],
+    "downloadUrls": [
+      "https://gitlab.com/open45140/forupdate/raw/main/%E5%85%89%E9%81%87%E4%BF%AE%E6%94%B9%E5%99%A8.apk",
+      "https://cnb.cool/skyscraper-2026/forupdate/-/git/raw/main/%E5%85%89%E9%81%87%E4%BF%AE%E6%94%B9%E5%99%A8.apk",
+      "https://rrhome.ashitblake.pp.ua/forupdate/%E5%85%89%E9%81%87%E4%BF%AE%E6%94%B9%E5%99%A8.apk",
+      "https://raw.githubusercontent.com/Skyscrapers12/forupdate/main/%E5%85%89%E9%81%87%E4%BF%AE%E6%94%B9%E5%99%A8.apk"
+    ]
+  },
+  "latest": {
+    "versionName": "0.1.1",
+    "versionCode": 412671,
+    "apkSize": 17597340,
+    "apkSha256": "7f86495631b877c1bbcb66ef52b15b769ddb5302b8c24e18215c799768421bd1",
+    "signerSha256": "3d96d321999770c3f8a070db157614515ea730d9ce210db2a36d9dd403785292",
+    "notes": "更新配置增加独立签名与防回滚校验，改进本地缓存和代码加载保护"
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "keyId": "config-2026-01",
+    "value": "Fb89zVDbW2Kjktu/r84D775o++ZCVHBkvfZRwNgOgxOV+NT6szz7Wytq0OMgNTEB6Y/z0YHWFthquEDFyGLgAQ=="
+  }
+}
