@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "sequence": 1023,
+  "sequence": 1029,
   "urls": {
     "configUrls": [
       "https://gitlab.com/open45140/forupdate/raw/main/cfg.json",
@@ -17,15 +17,15 @@
   },
   "latest": {
     "versionName": "0.1.3",
-    "versionCode": 412686,
-    "apkSize": 26674719,
-    "apkSha256": "0a3b9a6b119ceff5ebbd48751eb7fd109aadc0defa5e63a67dba397b07a68f6d",
+    "versionCode": 412690,
+    "apkSize": 27323292,
+    "apkSha256": "6a90c0d9b92b4e0a318412fe46a9c0d51410bede4028ae691b3da4b416cd6ad0",
     "signerSha256": "3d96d321999770c3f8a070db157614515ea730d9ce210db2a36d9dd403785292",
     "notes": "新增 获取安装包 功能"
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "config-2026-01",
-    "value": "dXqSt4uIQhkUOXTQt9+vKHydh2BH+6T0yS8Uvch5+DIcZlEbHMW7xBPyaHm2zE/u83CDRbXxxeUZyinXAtVxDg=="
+    "value": "LUzUgIamtuyVX/nwdgQUaOuXvO4Oguf/iIAeZUkMiDtGkZtpdqh/r/CE3Og6qBQ3U51GeOdIvkdEl4ijuLuUCw=="
   }
 }
