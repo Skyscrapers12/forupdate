@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "sequence": 1041,
+  "sequence": 1042,
   "urls": {
     "configUrls": [
       "https://gitlab.com/open45140/forupdate/raw/main/cfg.json",
@@ -18,14 +18,14 @@
   "latest": {
     "versionName": "0.1.4",
     "versionCode": 412701,
-    "apkSize": 27900586,
-    "apkSha256": "ded1566e86fc0849e9220050233acda9c099f373992a820e81d08b3d2afa62cc",
+    "apkSize": 27814086,
+    "apkSha256": "4888650a122b2b3db54648761b0d3dc4dc60772cf2e50f6787e2c9cb9c7a129c",
     "signerSha256": "3d96d321999770c3f8a070db157614515ea730d9ce210db2a36d9dd403785292",
     "notes": "增加【使用指南】"
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "config-2026-01",
-    "value": "E28qP65r8P0Q9JO3MdVLu4Ze1kWf39pKKPEno+QTo0cpJ8usvOGdXwCkwDqnVBqIaO19mZeT8n+AB7VZUFIvAQ=="
+    "value": "6V5PeLR2VxckYoKycDPXd5smqg/9h2o/54En+yYykPFUm7kBO0Fgzvt8sBMgI2GkkfuEqGG78Xc9RvHlTz0cAg=="
   }
 }
