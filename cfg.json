@@ -1,0 +1,31 @@
+{
+  "schema": 2,
+  "sequence": 1041,
+  "urls": {
+    "configUrls": [
+      "https://gitlab.com/open45140/forupdate/raw/main/cfg.json",
+      "https://cnb.cool/skyscraper-2026/forupdate/-/git/raw/main/cfg.json",
+      "https://rrhome.ashitblake.pp.ua/forupdate/cfg.json",
+      "https://raw.githubusercontent.com/Skyscrapers12/forupdate/main/cfg.json"
+    ],
+    "downloadUrls": [
+      "https://gitlab.com/open45140/forupdate/raw/main/%E6%A2%A7%E8%96%8F%E4%BF%AE%E6%94%B9%E5%99%A8.apk",
+      "https://cnb.cool/skyscraper-2026/forupdate/-/git/raw/main/%E6%A2%A7%E8%96%8F%E4%BF%AE%E6%94%B9%E5%99%A8.apk",
+      "https://rrhome.ashitblake.pp.ua/forupdate/%E6%A2%A7%E8%96%8F%E4%BF%AE%E6%94%B9%E5%99%A8.apk",
+      "https://raw.githubusercontent.com/Skyscrapers12/forupdate/main/%E6%A2%A7%E8%96%8F%E4%BF%AE%E6%94%B9%E5%99%A8.apk"
+    ]
+  },
+  "latest": {
+    "versionName": "0.1.4",
+    "versionCode": 412701,
+    "apkSize": 27900586,
+    "apkSha256": "ded1566e86fc0849e9220050233acda9c099f373992a820e81d08b3d2afa62cc",
+    "signerSha256": "3d96d321999770c3f8a070db157614515ea730d9ce210db2a36d9dd403785292",
+    "notes": "增加【使用指南】"
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "keyId": "config-2026-01",
+    "value": "E28qP65r8P0Q9JO3MdVLu4Ze1kWf39pKKPEno+QTo0cpJ8usvOGdXwCkwDqnVBqIaO19mZeT8n+AB7VZUFIvAQ=="
+  }
+}
