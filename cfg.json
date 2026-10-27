@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "sequence": 1051,
+  "sequence": 1056,
   "urls": {
     "configUrls": [
       "https://gitlab.com/open45140/forupdate/raw/main/cfg.json",
@@ -17,15 +17,15 @@
   },
   "latest": {
     "versionName": "0.1.5",
-    "versionCode": 412703,
-    "apkSize": 29217226,
-    "apkSha256": "26a09b6a562005179f95e31706ffdfd5a5f3256f2fc76de1270829040205d2fa",
+    "versionCode": 412704,
+    "apkSize": 30195323,
+    "apkSha256": "1d61e3632c1d65963d540bebac2df3589f7592205aa76f0866ecf20d1ce54e24",
     "signerSha256": "3d96d321999770c3f8a070db157614515ea730d9ce210db2a36d9dd403785292",
-    "notes": "珍珠季开启，魔法学院首届招生启动！"
+    "notes": "对容器进行了重大优化"
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "config-2026-01",
-    "value": "DigwNKYGmcQt3y3xbFcENS+XMrVdWLPZP8WO+Irl8amdDOWkK5FWORmKeprRlntihHa7dceGzCEIZdBX4X2SBA=="
+    "value": "p148JjjmpzJucRwgUl41oqMR3DeOcMED7bvOpZBYX4Sq43VoyBrw/Qsob5IMxnHZH4ZI9m/i8n9583CSki43CA=="
   }
 }
