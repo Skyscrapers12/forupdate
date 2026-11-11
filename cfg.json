@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "sequence": 1056,
+  "sequence": 1067,
   "urls": {
     "configUrls": [
       "https://gitlab.com/open45140/forupdate/raw/main/cfg.json",
@@ -16,16 +16,16 @@
     ]
   },
   "latest": {
-    "versionName": "0.1.5",
-    "versionCode": 412704,
-    "apkSize": 30195323,
-    "apkSha256": "1d61e3632c1d65963d540bebac2df3589f7592205aa76f0866ecf20d1ce54e24",
+    "versionName": "0.1.6",
+    "versionCode": 412713,
+    "apkSize": 31299409,
+    "apkSha256": "f2fab612da50f6d71b79d82e62df27e265b62703262c0d59c6dfae78ed1dc453",
     "signerSha256": "3d96d321999770c3f8a070db157614515ea730d9ce210db2a36d9dd403785292",
-    "notes": "对容器进行了重大优化"
+    "notes": "新版本上线！网易云音乐联动在即！"
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "config-2026-01",
-    "value": "p148JjjmpzJucRwgUl41oqMR3DeOcMED7bvOpZBYX4Sq43VoyBrw/Qsob5IMxnHZH4ZI9m/i8n9583CSki43CA=="
+    "value": "qgVm+DjMJWIAYBsras+4nYAQ9Xw/GhKcBhHcc+DIww9NDEVw5JXmfM73zpUQ9o8XMHPQUevz1lGQVirgPavTBA=="
   }
 }
